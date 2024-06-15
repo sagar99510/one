@@ -11,7 +11,6 @@
 	<h1 style="color: red; font-size: 40px;" align="center">WE INTEGRATED NEXUS TO JENKINS</h1>
 	<h1 style="color: red; font-size: 40px;" align="center">Integration done by Karthik</h1>
         <h2 style="color: red; font-size: 40px;" align="center">Senior DevOps Engineer</h2>
-        <h2 style="color: red; font-size: 40px;" align="center">From Nokia</h2>
 	
 	
 	
